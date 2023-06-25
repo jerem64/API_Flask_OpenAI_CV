@@ -1,0 +1,95 @@
+﻿Jérémy CHASSIN - Machine learning Engineer
+Après 12 ans dans le développement logiciel durant lesquels j’ai mis en place une solution de chatbot industrialisée, j’ai décidé de me spécialiser dans le Machine Learning.
+	Biarritz, France
++33 6 35 50 91 42
+jeremy.chassin@hotmail.fr
+LinkedIn
+Portfolio
+	EXPÉRIENCES PROFESSIONNELLES
+ML Engineer Student, OpenClassroom - ML Engineer cursus
+Octobre 2022 À Juin 2023 8 mois
+ML Ops : Kubeflow, Ray, TFX : pipeline de classification [Tensorflow, Pytorch]
+LLMs: Chatbot generalist, et Q&A sur mon CV [OpenAI, Dolly, Langchain]
+ Serving : voir ma page - link.
+Open Food Facts: EDA, multivariate, réduction dimensionnelle. Dans le but de déterminer l’action du sucre et du gras dans le Nutriscore [Scikit-learn]
+Rendement de Co2 bâtiments: EDA, training, prédiction de l’energy score d’un bâtiment
+[scikit learn, KRR, Reg Linéaire, KNN, Lasso, XGBoost]
+Segmentation clients e-commerce: RFM, Churn: apprentissage non supervisé + stabilité de la segmentation dans le temps.  [Kmeans]
+ Serving : Activation grâce à l’ajout du score dans le jeu de données original prêt à être utilisé par des APIs.
+Catégorisation des posts Stack Overflow: a base d’Embedding, classif. multiclasse,model transformers [BERT vs. LDA, TF-IDF, doc2Vec]
+ Serving: API et App SteamLit
+Classification d’image et amélioration des perfs: image classifier et amélioration des performances avec une augmentation du jeu de données. Parti de CNN from scratch puis augmentation du jeu de données en cropant les parties d’images intéressantes. 
+[DataGen,TensorFlow Keras, ResNet, YOLO]
+ Serving: Application python (tkinter) d'inférence.
+Architecte Logiciel, Exakis-Nelite, Biarritz
+Mai 2016 À Avril 2022, 6 ans
+Architecture et développement: Plateforme SaaS complète de Chatbot personnalisable (50+ clients) .Net Core, Azure
+Ingénieur avant-vente: Réalisation de propositions commerciales, réponse aux appels d'offres de progiciel de gestion (est. 250 heures-homme )
+Gestion de projets de développement logiciel: 40 jh à 120 jh, gestion d’équipes 2 ingénieurs logiciel
+Maintenance et évolution: Logiciels de gestion aéroportuaire, aérospatial et d’usinage de silicone.
+Data Engineer, SB Consulting, Paris
+SEPTEMBRE 2015 À AVRIL 2016, 8 mois
+Data engineering, architecture et développement : ERP de gestion du métier d’avocat SB Lawyer, ETL, MS Dynamics et SharePoint
+Ingénieur avant- ventes:  Référent technique de l’équipe de vente.
+Voyage linguistique, Nouvelle Zélande
+OCTOBRE 2014 À MAI 2015, 8 mois
+Ingénieur études et développement, Sopra Steria, Vélizy 
+OCTOBRE 2011 À SEPTEMBRE 2014, 3 ans
+Maintenance, évolution et astreinte:  Logiciels de gestion aéroportuaire pour des aéroports internationaux (Paris, Lyon, Mulhouse, Bristol, Nantes, Bordeaux)
+Chef de projet technique en alternance, Traceone, Paris
+SEPTEMBRE 2008 À SEPTEMBRE 2011, 3 ans
+BI, Data engineering, maintenance, évolution, Formation et gestion de projet: Microsoft CRM 3.0, Microsoft Dynamics, SharePoint 2007, ETL, ERP
+
+
+
+
+FORMATION
+
+
+OpenClassroom, Formation en ligne — Machine Learning Engineer
+Octobre 2022 À Juin 2023
+ITIN - CCIV, Cergy Saint Christophe — Master Ingénieur d’affaire international - (Cursus en anglais)
+SEPTEMBRE 2008 À AOÛT 2011
+Lycée Jean Jacques Rousseau, Montmorency — BTS Informatique
+SEPTEMBRE 2006  À AOÛT 2008
+	Permis A & B
+
+
+COMPÉTENCES
+* Cloud Computing : Azure, DevOps, Colab
+ML Framework: XGBoost, Tensorflow, Scikit Learn, HuggingFace
+ML Ops: Kubeflow, Ray, TFX[a][b][c][d]
+* Programmation: 
+Backend: Python, pandas, Tensorflow Extended,BigQuery ML, C#, .Net, .Net Core, 
+Frontend/UI: Angular , ASP .Net, ASP,  Javascript, Typescript, HTML 5, CSS3
+* Modèles: MVVM, MVC
+BDD: SQL Server, Oracle PL SQL, PostgreSQL, MySQL, Azure Table Storage
+ETL:  SSIS, Talend
+IDE: Visual Studio, Unity
+Source control : GIT, TFS
+System: Windows Server, IIS
+CERTIFICATION
+SCRUM Master niveau 1 
+LANGUES
+Anglais niveau C1
+Espagnol niveau B1
+SOFT-SKILLS
+Adaptabilité
+Make it Work
+Appliqué
+Esprit de synthèse
+Esprit d'équipe
+Sympatique
+SPORTS
+Surf
+Boxe (compétition amateur)
+VOYAGES
+Nouvelle Zélande
+Etats-Unis
+Japon, …
+	
+
+[a]A apprendre
+[b]https://www.oreilly.com/library/view/learning-ray/9781098117214/
+[c]https://www.tensorflow.org/tfx?hl=fr la ya les colab les samples
+[d]https://github.com/kubeflow/kubeflow
