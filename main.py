@@ -15,7 +15,7 @@ from flask_cors import CORS
 
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"*": {"origins": "*"}})
 # CORS(app, resources={r"/*": {"origins": ["https://jeremy.chassin.dev"]}})
 
 key_file_path= os.path.join(os.path.dirname(__file__), "resources", "OpenAI_key.json")
