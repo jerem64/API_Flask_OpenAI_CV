@@ -6,7 +6,7 @@ python3 -m venv env
 ```
 2. On l'active
 ```bash
-source env/bin/activate
+source venv/bin/activate
 ```
 3. On installe streamlit
 ```bash

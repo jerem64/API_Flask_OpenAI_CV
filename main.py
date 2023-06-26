@@ -9,11 +9,15 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.memory import ConversationBufferWindowMemory
 from flask import Flask, request
+from flask_cors import CORS
 
 
 
 
 app = Flask(__name__)
+CORS(app)
+# CORS(app, resources={r"/*": {"origins": ["https://jeremy.chassin.dev"]}})
+
 key_file_path= os.path.join(os.path.dirname(__file__), "resources", "OpenAI_key.json")
 cv_file_path= os.path.join(os.path.dirname(__file__), "resources", "documents", "CV.txt")
 temperature=0
