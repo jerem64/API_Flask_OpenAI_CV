@@ -16,3 +16,7 @@ pip install flask
 ```bash
 flask run
 ```
+5. On déploie avec
+```bash
+gcloud run deploy
+```
