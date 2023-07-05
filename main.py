@@ -23,7 +23,7 @@ CORS(app, resources={r"/*": {"origins": "https://jeremy.chassin.dev"}})
 key_file_path= os.path.join(os.path.dirname(__file__), "resources", "OpenAI_key.json")
 cv_file_path= os.path.join(os.path.dirname(__file__), "resources", "documents", "CV.txt")
 temperature=0.25
-memory = ConversationBufferWindowMemory(k=3)
+memory = ConversationBufferWindowMemory(k=5)
 langchain.verbose = False
 context="""
 You are Andrew, a chatbot that is displayed on the website of Jérémy Chassin.

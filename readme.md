@@ -12,11 +12,19 @@ source venv/bin/activate
 ```bash
 pip install flask
 ```
-4. On démarre l'app
+4. On définit le fichier python a utiliseer par Flask
+```bash
+export FLASK_APP=main.py
+```
+5. On démarre l'app
 ```bash
 flask run
 ```
-5. On déploie avec
+6. On déploie avec
 ```bash
 gcloud run deploy
 ```
+## Attention
+Ne pas pousser sur github la clé OpenAI_key.json, le projet etant public sur github.
+Ajouter la clé au fichier .gitignore génère une erreur car au déploiement ce fichier est ignoré...
+Note pour moi même, corriges ça, on devrait pouvoir pousser sur git et deployer des choses différentes
