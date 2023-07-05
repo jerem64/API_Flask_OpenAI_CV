@@ -1,95 +1,102 @@
-﻿Jérémy CHASSIN - Machine learning Engineer
-Après 12 ans dans le développement logiciel durant lesquels j’ai mis en place une solution de chatbot industrialisée, j’ai décidé de me spécialiser dans le Machine Learning.
-	Biarritz, France
+﻿Jérémy Chassin
+Biarritz, France
 +33 6 35 50 91 42
-jeremy.chassin@hotmail.fr
-LinkedIn
-Portfolio
-	EXPÉRIENCES PROFESSIONNELLES
-ML Engineer Student, OpenClassroom - ML Engineer cursus
-Octobre 2022 À Juin 2023 8 mois
-ML Ops : Kubeflow, Ray, TFX : pipeline de classification [Tensorflow, Pytorch]
-LLMs: Chatbot generalist, et Q&A sur mon CV [OpenAI, Dolly, Langchain]
- Serving : voir ma page - link.
-Open Food Facts: EDA, multivariate, réduction dimensionnelle. Dans le but de déterminer l’action du sucre et du gras dans le Nutriscore [Scikit-learn]
-Rendement de Co2 bâtiments: EDA, training, prédiction de l’energy score d’un bâtiment
-[scikit learn, KRR, Reg Linéaire, KNN, Lasso, XGBoost]
-Segmentation clients e-commerce: RFM, Churn: apprentissage non supervisé + stabilité de la segmentation dans le temps.  [Kmeans]
- Serving : Activation grâce à l’ajout du score dans le jeu de données original prêt à être utilisé par des APIs.
-Catégorisation des posts Stack Overflow: a base d’Embedding, classif. multiclasse,model transformers [BERT vs. LDA, TF-IDF, doc2Vec]
- Serving: API et App SteamLit
-Classification d’image et amélioration des perfs: image classifier et amélioration des performances avec une augmentation du jeu de données. Parti de CNN from scratch puis augmentation du jeu de données en cropant les parties d’images intéressantes. 
-[DataGen,TensorFlow Keras, ResNet, YOLO]
- Serving: Application python (tkinter) d'inférence.
-Architecte Logiciel, Exakis-Nelite, Biarritz
-Mai 2016 À Avril 2022, 6 ans
-Architecture et développement: Plateforme SaaS complète de Chatbot personnalisable (50+ clients) .Net Core, Azure
-Ingénieur avant-vente: Réalisation de propositions commerciales, réponse aux appels d'offres de progiciel de gestion (est. 250 heures-homme )
-Gestion de projets de développement logiciel: 40 jh à 120 jh, gestion d’équipes 2 ingénieurs logiciel
-Maintenance et évolution: Logiciels de gestion aéroportuaire, aérospatial et d’usinage de silicone.
-Data Engineer, SB Consulting, Paris
-SEPTEMBRE 2015 À AVRIL 2016, 8 mois
-Data engineering, architecture et développement : ERP de gestion du métier d’avocat SB Lawyer, ETL, MS Dynamics et SharePoint
-Ingénieur avant- ventes:  Référent technique de l’équipe de vente.
-Voyage linguistique, Nouvelle Zélande
-OCTOBRE 2014 À MAI 2015, 8 mois
-Ingénieur études et développement, Sopra Steria, Vélizy 
-OCTOBRE 2011 À SEPTEMBRE 2014, 3 ans
-Maintenance, évolution et astreinte:  Logiciels de gestion aéroportuaire pour des aéroports internationaux (Paris, Lyon, Mulhouse, Bristol, Nantes, Bordeaux)
-Chef de projet technique en alternance, Traceone, Paris
-SEPTEMBRE 2008 À SEPTEMBRE 2011, 3 ans
-BI, Data engineering, maintenance, évolution, Formation et gestion de projet: Microsoft CRM 3.0, Microsoft Dynamics, SharePoint 2007, ETL, ERP
+jerem.chassin@gmail.com
+linkedin.com/in/jeremy-chassin
 
+After 12 years in software development during which I have honed my skills in developing robust software solutions, I have decide to specialize in the exciting world of machine learning.
 
+PROFESSIONAL EXPERIENCE:
+- ML Engineer Student, OpenClassroom - ML Engineer curriculum
+October 2022 to June 2023 (8 months)
+ML Ops: TFX - classification pipeline [Tensorflow, PyTorch].
+LLMs: Chatbot generalist and Q&A on my CV [OpenAI, Dolly, Langchain].
+Serving: Below on the right, talk with Andrew .
+Food Facts: EDA, multivariate, dimensionality reduction to determine the impact of sugar and fat on Nutriscore [Scikit-learn].
+CO2 building performance: EDA, training, prediction of energy score for a building [Scikit-learn, KRR, Linear Regression, KNN, Lasso, XGBoost].
+E-commerce customer segmentation: RFM, Churn: unsupervised learning + segmentation stability over time [K-means].
+Serving: Activation by adding the score to the original dataset ready to be used by APIs.
+Stack Overflow post categorization: Embedding-based, multiclass classification, model transformers [BERT vs. LDA, TF-IDF, doc2Vec].
+Serving: API and web app [StreamLit].
+Image classification and performance improvement: Image classifier and performance improvement with dataset augmentation. CNN from scratch, pretrained model and increase of the dataset by cropping images interesting parts [DataDen, TensorFlow Keras, ReseNet, YOLOv8].
+Serving: Python application for inference [Tkinter].
 
+- Software Architect, Exakis-Nelite, Biarritz
+May 2016 to April 2022 (6 years)
+Architecture and development:
+Complete customizable SaaS Chatbot platform (50+ clients) [LUIS.ai, Bot Framework, .Net Core, Azure].
+Airport & aerospace solutions for Paris airports and ATR [Angular, Typescript, .Net, Oracle, PostgreSQL, SSIS, SSRS, Talend].
+Pre-sales Engineer: Creating commercial proposals, responding to software package management bids (est. 250 man-hours)
+Software development project management: 40 hours to 120 hours, managing teams of 2 software engineers
+Maintenance and evolution: Airport management, aerospace, and silicone machining software.
 
-FORMATION
+- Data Engineer, SB Consulting, Paris
+September 2015 to April 2016 (8 months)
+Data engineering, architecture, and development: SB Lawyer, an ERP system for managing lawyers' business, using ETL, MS Dynamics, and SharePoint.
+Pre-sales Engineer: Technical reference for the sales team.
 
+- Linguistic Trip, New Zealand
+October 2014 to May 2015 (8 months)
 
-OpenClassroom, Formation en ligne — Machine Learning Engineer
-Octobre 2022 À Juin 2023
-ITIN - CCIV, Cergy Saint Christophe — Master Ingénieur d’affaire international - (Cursus en anglais)
-SEPTEMBRE 2008 À AOÛT 2011
-Lycée Jean Jacques Rousseau, Montmorency — BTS Informatique
-SEPTEMBRE 2006  À AOÛT 2008
-	Permis A & B
+- Software Engineer, Sopra Steria, Vélizy
+October 2011 to September 2014 (3 years)
+Maintenance, evolution, and on-call support: Airport management software for international airports (Paris, Lyon, Mulhouse, Bristol, Nantes, Bordeaux).
 
+- Technical Project Manager(Apprenticeship), TraceOne, Paris
+September 2008 to September 2011 (3 years)
+BI, Data engineering, maintenance, evolution, training, and project management: Microsoft CRM 3.0, Microsoft Dynamics, SharePoint 2007, ETL, ERP.
 
-COMPÉTENCES
-* Cloud Computing : Azure, DevOps, Colab
-ML Framework: XGBoost, Tensorflow, Scikit Learn, HuggingFace
-ML Ops: Kubeflow, Ray, TFX[a][b][c][d]
-* Programmation: 
-Backend: Python, pandas, Tensorflow Extended,BigQuery ML, C#, .Net, .Net Core, 
-Frontend/UI: Angular , ASP .Net, ASP,  Javascript, Typescript, HTML 5, CSS3
-* Modèles: MVVM, MVC
-BDD: SQL Server, Oracle PL SQL, PostgreSQL, MySQL, Azure Table Storage
-ETL:  SSIS, Talend
-IDE: Visual Studio, Unity
-Source control : GIT, TFS
-System: Windows Server, IIS
-CERTIFICATION
-SCRUM Master niveau 1 
-LANGUES
-Anglais niveau C1
-Espagnol niveau B1
-SOFT-SKILLS
-Adaptabilité
-Make it Work
-Appliqué
-Esprit de synthèse
-Esprit d'équipe
-Sympatique
-SPORTS
-Surf
-Boxe (compétition amateur)
-VOYAGES
-Nouvelle Zélande
-Etats-Unis
-Japon, …
-	
+EDUCATION:
+- OpenClassroom, Online Training - Machine Learning Engineer - Master degree level
+October 2022 to June 2023
 
-[a]A apprendre
-[b]https://www.oreilly.com/library/view/learning-ray/9781098117214/
-[c]https://www.tensorflow.org/tfx?hl=fr la ya les colab les samples
-[d]https://github.com/kubeflow/kubeflow
+- ITIN - CCIV, Cergy Saint Christophe - International Business Engineering (English curriculum) - Master degree level
+September 2008 to August 2011
+
+- Lycée Jean Jacques Rousseau, Montmorency - Higher technician certificate in Computer Science
+September 2006 to August 2008
+
+SKILLS:
+- Cloud Computing: Azure, DevOps, Colab, Google Cloud, Firebase
+- ML Frameworks: XGBoost, Tensorflow, Scikit Learn, HuggingFace, LangChain
+- ML Ops: TFX
+- Programming:
+	- Backend: Python, pandas, Tensorflow Extended, BigQuery ML, C#, .Net, .Net Core
+	- Frontend/UI: Angular, ASP .Net, ASP, Javascript, Typescript, HTML 5, CSS3
+- Models: MVVM, MVC
+- Databases: SQL Server, Oracle PL SQL, PostgreSQL, MySQL, Azure Table Storage
+- ETL: SSIS, Talend
+- IDE: Visual Studio, Unity
+- Source control: GIT, TFS
+- System: Windows Server, IIS, Linux
+
+CERTIFICATION:
+- SCRUM Master level 1
+
+LANGUAGES:
+- English: C1 level (Autonomus)
+- Spanish: B1 level (Intermediate)
+
+SOFT SKILLS:
+- Adaptability
+- Make it Work
+- Detail-oriented
+- Synthetic thinking
+- Team player
+- Friendly
+
+SPORTS:
+- Surfing
+- Boxing (amateur competition)
+
+TRAVELS:
+- New Zealand
+- United States
+- Japan
+- Croatia
+- Greece
+- Italy
+- Hungary
+- Spain
+- England
+- Scotland
