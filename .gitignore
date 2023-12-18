@@ -1,2 +1,3 @@
-venv/
-resources/OpenAI_key.json
+env/
+resources/API_keys.json
+__pycache__/
