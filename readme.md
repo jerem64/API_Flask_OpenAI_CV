@@ -26,4 +26,3 @@ gcloud run deploy
 ## WARNING
 Do not push the key API_Keys.json on GitHug as it is public, if done OpenAI will detect it and mark the key as leaked.
 Adding the key to the .gitignore file generate an error because when deploying the file is ignored...
-Note pour moi même, corriges ça, on devrait pouvoir pousser sur git et deployer des choses différentes.

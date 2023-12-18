@@ -23,6 +23,6 @@ class Config:
     # Cross-Origin Resource Sharing (CORS) origin configuration
     # Uncomment one of the following lines based on your needs:
     # - Use the specific origin (e.g., "https://jeremy.chassin.dev")
-    # CORS_ORIGIN = "https://jeremy.chassin.dev"
+    CORS_ORIGIN = "https://jeremy.chassin.dev"
     # - Allow requests from any origin
-    CORS_ORIGIN = "*" 
+    #CORS_ORIGIN = "*" 
