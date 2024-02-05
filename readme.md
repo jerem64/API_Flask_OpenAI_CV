@@ -7,9 +7,9 @@ python3 -m venv env
 ```bash
 source env/bin/activate
 ```
-3. Install Flask
+3. Install required packages
 ```bash
-pip install flask
+pip install -r requirements.txt
 ```
 4. Define the Python file to be used by Flask
 ```bash
@@ -17,7 +17,7 @@ export FLASK_APP=app.py
 ```
 5. Start the app
 ```bash
-flask run
+flask run --debug
 ```
 6. Deploy with
 ```bash
